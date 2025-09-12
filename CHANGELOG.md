@@ -12,5 +12,3 @@ All notable changes to this app are documented here.
 
 ### Fixed
 - Crash when opening catalogs with empty variants
-
-[1.4.0]: https://github.com/yourname/ai-localization-tool/releases/tag/v1.4.0
