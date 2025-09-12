@@ -6,7 +6,7 @@
 
 [Download](https://apps.apple.com/app/id6751232437?mt=12)
  · [Website](https://app-localization.com) 
- · [Changelog](./CHANGELOG.md)
+ · [Changelog](https://github.com/alexejn/cube-app-localization/releases)
  
 
 ## Description
