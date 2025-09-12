@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/logo.png" alt="CUBE Logo" width="120"/>
+  <img src="assets/logo.png" alt="CUBE Logo" width="140"/>
 </p>
 
-<h1 align="center">CUBE</h1>
+<h1 align="center">CUBE - AI App Localization (iOS & macOS)</h1>
 
 
 
