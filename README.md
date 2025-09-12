@@ -35,7 +35,6 @@ CUBE is a professional AI-powered localization tool designed for Xcode String Ca
 
 ## Support
 - Issues → [GitHub Issues](../../issues)
-- FAQ → [docs/faq.md](./docs/faq.md)
 
 
 ## Demo Video
