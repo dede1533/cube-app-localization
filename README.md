@@ -4,11 +4,11 @@
 
 <h1 align="center">CUBE - AI App Localization (iOS & macOS)</h1>
 
-
-
-[Download on the Mac App Store](https://apps.apple.com/app/id6751232437?mt=12)
+<p align="center">
+[<img src="assets/download.png" alt="Download on the Mac App Store" height="40"/>](https://apps.apple.com/app/id6751232437?mt=12)
 [Website](https://app-localization.com) 
 [Changelog](./CHANGELOG.md)
+</p>
 
 ## Description
 CUBE is a professional AI-powered localization tool designed for Xcode String Catalogs (`.xcstrings`) on iOS and macOS. It makes app localization fast, cost-effective, and developer-friendly. With full support for batch translation, editing, and reviewing, CUBE helps teams manage translations at scale while keeping full control over costs.
