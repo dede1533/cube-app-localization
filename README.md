@@ -4,9 +4,7 @@
 
 <h1 align="center">CUBE - AI App Localization (iOS & macOS)</h1>
 
-[Download](https://apps.apple.com/app/id6751232437?mt=12)
- · [Website](https://app-localization.com) 
- · [Changelog](https://github.com/alexejn/cube-app-localization/releases)
+[Download on MacStore](https://apps.apple.com/app/id6751232437?mt=12)
  
 
 ## Description
