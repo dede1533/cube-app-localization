@@ -1,8 +1,17 @@
-# CUBE - AI Localization Tool for Xcode String Catalogs (iOS/macOS)
+<p align="center">
+  <img src="assets/logo.png" alt="CUBE Logo" width="120"/>
+</p>
+
+<h1 align="center">CUBE</h1>
+
+
 
 [Download on the Mac App Store](https://apps.apple.com/app/id6751232437?mt=12)
 [Website](https://app-localization.com) 
 [Changelog](./CHANGELOG.md)
+
+## Description
+CUBE is a professional AI-powered localization tool designed for Xcode String Catalogs (`.xcstrings`) on iOS and macOS. It makes app localization fast, cost-effective, and developer-friendly. With full support for batch translation, editing, and reviewing, CUBE helps teams manage translations at scale while keeping full control over costs.
 
 - Batch-translate `.xcstrings` with AI (your own OpenAI key, full cost control)
 - Edit, review, and manage statuses in one place
@@ -23,9 +32,16 @@
 4. Review, edit, set statuses if need
 5. Export - write down to `.xcstrings`
 
-## Examples
-- [`examples/Sample.xcstrings`](./examples/Sample.xcstrings)
 
 ## Support
 - Issues → [GitHub Issues](../../issues)
 - FAQ → [docs/faq.md](./docs/faq.md)
+
+
+## Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/18qqg7Bn5to/maxresdefault.jpg)](https://www.youtube.com/watch?v=18qqg7Bn5to)
+
+<sub>Click to play the video on YouTube</sub>
+
+Thanks for watching!
